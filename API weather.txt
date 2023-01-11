@@ -1,0 +1,11 @@
+current weather : https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+
+5 days weather forecast: api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
+
+API key : af405e652957342591b832540f90ba34
+
+
+
+current weather link : https://api.openweathermap.org/data/2.5/weather?q=zagazig&lang=en&mode=json&appid=af405e652957342591b832540f90ba34
+
+5 days weather forecast link : https://api.openweathermap.org/data/2.5/forecast?q=cairo&appid=af405e652957342591b832540f90ba34
